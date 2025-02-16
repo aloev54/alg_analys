@@ -3,3 +3,5 @@ obj/
 *.csv
 *.user
 *.suo
+.vscode/
+*.sln
