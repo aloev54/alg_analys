@@ -1,0 +1,11 @@
+# ninja log v5
+1	385	1739830172342875450	CMakeFiles/lab_1_cpp.dir/SortingAlgorithms.cpp.o	e7dc534c62cc9f5f
+1	497	1739830172456999818	CMakeFiles/lab_1_cpp.dir/ArrayGenerator.cpp.o	b158f6e8069b7021
+1	498	1739830172456889071	CMakeFiles/lab_1_cpp.dir/Helpers.cpp.o	e003103a283a8719
+1	547	1739830172507500978	CMakeFiles/lab_1_cpp.dir/SortingBenchmark.cpp.o	3547a81eae1e4328
+0	629	1739830172589699746	CMakeFiles/lab_1_cpp.dir/main.cpp.o	32c62bfc69456ad2
+629	676	1739830172638196921	lab_1_cpp	979e20e08db7e898
+5	637	1739830293935152948	CMakeFiles/lab_1_cpp.dir/main.cpp.o	32c62bfc69456ad2
+637	688	1739830293989860198	lab_1_cpp	979e20e08db7e898
+5	590	1739830349169117580	CMakeFiles/lab_1_cpp.dir/main.cpp.o	32c62bfc69456ad2
+590	636	1739830349218189739	lab_1_cpp	979e20e08db7e898
