@@ -1,0 +1,5 @@
+# ninja log v5
+1	454	1739870265991356314	CMakeFiles/lab_2_cpp.dir/StrGenerator.cpp.o	5be32c8b7f84fe73
+1	456	1739870265994908120	CMakeFiles/lab_2_cpp.dir/LevenshteinAlgorithms.cpp.o	948da1c04a27b4d0
+1	556	1739870266095031992	CMakeFiles/lab_2_cpp.dir/LevenshteinBenchmark.cpp.o	75a0981dd2138195
+1	628	1739870266165954484	CMakeFiles/lab_2_cpp.dir/main.cpp.o	b5f447428b1d83f0
