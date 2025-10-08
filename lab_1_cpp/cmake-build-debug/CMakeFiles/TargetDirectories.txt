@@ -1,0 +1,3 @@
+/Users/aloevartyom/Documents/dev/alg_analys/lab_1_cpp/cmake-build-debug/CMakeFiles/lab_1_cpp.dir
+/Users/aloevartyom/Documents/dev/alg_analys/lab_1_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aloevartyom/Documents/dev/alg_analys/lab_1_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
